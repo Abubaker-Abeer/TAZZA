@@ -70,6 +70,14 @@
 .header .header_right span {
   padding: 0.2rem 0.5rem;
 }
+/*banner_section*/
+.banner_section{
+    min-height: 70vh;
+}
+.banner_section .carousel-item{
+    min-height: 70vh;
+
+}
 }
 
 /* Media Query 767px */
