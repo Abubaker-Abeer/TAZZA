@@ -541,3 +541,7 @@ section{
   font-weight: 600;
 }
 
+/* ================= About Page CSS ================== */
+.about .about-details p {
+  color: var(--primary-text);
+}
