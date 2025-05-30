@@ -545,3 +545,7 @@ section{
 .about .about-details p {
   color: var(--primary-text);
 }
+/* ================= Product Page CSS ================== */
+.product .product-details p {
+  margin-bottom: 1.5rem;
+}
